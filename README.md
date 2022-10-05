@@ -12,7 +12,7 @@ Estudiante | Lic. en gestion de tecnologia de la informacion | (https://github.c
 
 
 ## ⚡ Technologies
-Puedo desarrollarme en el area de
+Puedo desarrollarme en el area de;
 -Phyton-SQL-HTML-CSS
 
 ## 📫 Contact Me
